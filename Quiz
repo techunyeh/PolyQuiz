@@ -1,3 +1,11 @@
 Explain what inheritance is.
+ Inheritance cna let us create child classes of existing classes.
+
+
 
 Explain what polymorphism is.
+ Polymorphism means once we got a child class,
+ we are able to use objects of that child class wherever we would use objects of the parent class.
+ Java will automatically refer to the right methods.
+
+
